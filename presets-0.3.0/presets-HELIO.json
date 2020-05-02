@@ -98,7 +98,7 @@
       "smart_dterm_smoothing_yaw":     3,
       "witchcraft_roll":               4,
       "witchcraft_pitch":              5,
-      "witchcraft_yaw":                6,
+      "witchcraft_yaw":                6
    },
    "Default":{
       "__comment":                     "!!! PIDs !!!",
@@ -198,6 +198,6 @@
       "smart_dterm_smoothing_yaw":     0,
       "witchcraft_roll":               0,
       "witchcraft_pitch":              0,
-      "witchcraft_yaw":                0,
+      "witchcraft_yaw":                0
    }
 }
