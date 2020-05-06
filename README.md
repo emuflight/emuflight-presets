@@ -1,3 +1,4 @@
+```
    "Xinch-CellCount-motorSize-motorKV-Pilot-flyStyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Additional notes and information about the tune or to help end-users with application. For example for what quads suitable, better, etc.",
@@ -96,3 +97,4 @@
       "witchcraft_pitch":              2,
       "witchcraft_yaw":                0
    }
+```
