@@ -1,3 +1,4 @@
+JSON Template for 0.3.0 presets:
 ```
    "Xinch-CellCount-motorSize-motorKV-Pilot-flyStyle":{
       "__comment":                     "!!! PIDs !!!",
