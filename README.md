@@ -61,7 +61,7 @@ JSON Template for 0.3.0 presets:
       "dterm_notch_cutoff":            0,
       "yaw_lowpass_enabled":           "OFF",
       "yaw_lowpass_hz":                0,
-      "__comment":                     "!!! Other settings !!! iterm_relax: 0=RPY, 1=RP, relax_type: 0=gyro, 1=setpoint",
+      "__comment":                     "!!! Other settings !!! iterm_relax: 0=RP, 1=RPY, relax_type: 0=gyro, 1=setpoint",
       "throttle_boost":                5,
       "abs_control_gain":              0,
       "i_decay":                       4,
