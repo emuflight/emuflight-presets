@@ -1462,7 +1462,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "t0t0 FPV HGLRC MotoWhoop85":{
+   "HGLRC-MotoWhoop85-t0t0-FPV":{
        "__comment":                     "!!! PIDs !!!",
        "preset_note":                   "HGLRC MotoWhoop85",
        "build_motors":                  "1103 8000kv",
