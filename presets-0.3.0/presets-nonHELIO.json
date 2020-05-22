@@ -191,7 +191,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "5in-4S-Raw-juice-Pierre-Meunier":{
+   "5in-4S-2306-2500KV-Raw-juice-Pierre-Meunier":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Preset for CLEAN 4S 5inch Freestyle quad",
       "build_motors":                  "AMAX 2305 2550 KV",
