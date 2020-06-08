@@ -434,7 +434,7 @@
     "dterm_lowpass2_hz":             180,
     "dterm_lowpass2_hz_roll":        180,
     "dterm_lowpass2_hz_pitch":       180,
-    "dterm_lowpass2_hz_yaw":         0,
+    "dterm_lowpass2_hz_yaw":         180,
     "dterm_notch_enabled":           "OFF",
     "dterm_notch_hz":                0,
     "dterm_notch_cutoff":            0,
