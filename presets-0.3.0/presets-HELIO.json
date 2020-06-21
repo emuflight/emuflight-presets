@@ -96,7 +96,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "5in-4S-2207-2750kV-BlackBird-safePerformance":{
+   "5in-4S-2207-2750kV-BlackBird & Shlangy-safePerformance":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Should be run with 32khz ON and 32k/16k Gyro and PID loop",
       "build_motors":                  "Tmotors BLACKBIRD 2750kV",
