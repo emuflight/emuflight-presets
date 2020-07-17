@@ -1943,13 +1943,13 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "Default-low-dTermLPFs":{
+   "Default-with-low-dTermLPFs":{
       "__comment":                     "!!! PIDs !!!",
-      "preset_note":                   "This preset has low dTerm LPFs, with LPF1 at 65 and LPF2 and 200. Possible overfiltered, but safe.",
-      "build_motors":                  "MOTORS name, size etc",
-      "build_frame":                   "FRAME name, size etc",
-      "build_props":                   "Props size etc",
-      "build_battery":                 "Battery (4S,6S etc.)",
+      "preset_note":                   "This preset has lower dTerm LPFs, with LPF1 at 65 and LPF2 at 200. Possibly over-filtered, but should be safer for motor heat.  Be aware that both over-filtering or under-filtering (Gyro and dTerm) can lead to motor heat.",
+      "build_motors":                  "",
+      "build_frame":                   "5 inch",
+      "build_props":                   "5 inch",
+      "build_battery":                 "",
       "p_roll":                        50,
       "i_roll":                        70,
       "d_roll":                        28,
@@ -2037,13 +2037,13 @@
       "witchcraft_pitch":              2,
       "witchcraft_yaw":                0
    },
-   "Default-high-dTermLPFs":{
+   "Default-with-high-dTermLPFs":{
       "__comment":                     "!!! PIDs !!!",
-      "preset_note":                   "This default brings dTerm LPF1 to 100 and LPF2 to 250.  Please be cautious of motor heat.",
-      "build_motors":                  "MOTORS name, size etc",
-      "build_frame":                   "FRAME name, size etc",
-      "build_props":                   "Props size etc",
-      "build_battery":                 "Battery (4S,6S etc.)",
+      "preset_note":                   "This default has higher dTerm LPFs, with LPF1 at 100 and LPF2 at 250.  Please be cautious of motor heat.  Both over-filtering or under-filtering (Gyro and dTerm) can lead to motor heat.",
+      "build_motors":                  "",
+      "build_frame":                   "5 inch",
+      "build_props":                   "5 inch",
+      "build_battery":                 "",
       "p_roll":                        50,
       "i_roll":                        70,
       "d_roll":                        28,
