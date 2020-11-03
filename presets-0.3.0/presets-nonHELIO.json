@@ -1720,7 +1720,7 @@
       "iterm_rotation":                "ON",
       "vbat_pid_gain":                 "OFF",
       "iterm_relax_enabled":           "OFF",
-      "iterm_relax":                   0,
+      "iterm_relax":                   1,
       "iterm_relax_type":              1,
       "iterm_relax_cutoff":            10,
       "__comment":                     "!!! TPA !!!",
