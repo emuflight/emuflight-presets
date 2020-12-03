@@ -1,7 +1,7 @@
 {
   "6inch-6S-2207-1900kV-nerdCopter-freestyle":{
       "__comment":                     "!!! PIDs !!!",
-      "preset_note":                   "This is a starting-point for Helio/Strix tuning.  Use BlackBox Log analysis to tune your quad-specific LPF's (gyro and kD).  Raise kP's as needed then balance kD's as needed. Finish up with kI's. Use motor_output_limit as needed.",
+      "preset_note":                   "This is a starting-point for Helio/Strix tuning.  Use BlackBox Log analysis to tune your quad-specific LPF's (gyro and kD).  Raise kP's as needed then balance kD's as needed. Finish up with kI's. Use motor_output_limit as needed. IMUF version of your choice. I prefer sharpness=0; however, not all versions allow such.  Also sharpness=1 may not produce the expected results, so I chose a small value for this preset.",
       "build_motors":                  "",
       "build_frame":                   "5 inch & 6 inch, if you tune it.",
       "build_props":                   "5 inch & 6 inch, if you tune each.",
@@ -23,7 +23,7 @@
       "imuf_pitch_lpf_cutoff_hz":      90,
       "imuf_roll_lpf_cutoff_hz":       90,
       "imuf_yaw_lpf_cutoff_hz":        80,
-      "imuf_sharpness":                2000,
+      "imuf_sharpness":                100,
       "__comment":                     "!!! Filters Gyro !!! type: 0=PT1, 1=BiQuad",
       "gyro_lowpass_enabled":          "OFF",
       "gyro_lowpass_type":             0,
@@ -74,7 +74,7 @@
       "iterm_rotation":                "ON",
       "vbat_pid_gain":                 "OFF",
       "iterm_relax2_cutoff":           10,
-      "iterm_relax2_cutoff_yaw":       24,
+      "iterm_relax2_cutoff_yaw":       20,
       "__comment":                     "!!! TPA !!!",
       "tpa_breakpoint":                1500,
       "tpa_rate_p":                    75,
