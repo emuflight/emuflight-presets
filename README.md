@@ -1,4 +1,4 @@
-JSON Template for 0.3.0 presets:
+JSON Template for 0.3.X presets:
 ```
    "Xinch-CellCount-motorSize-motorKV-Pilot-flyStyle":{
       "__comment":                     "!!! PIDs !!!",
@@ -69,18 +69,14 @@ JSON Template for 0.3.0 presets:
       "emu_boost_limit":               20,
       "emu_boost_yaw":                 40,
       "emu_boost_limit_yaw":           40,
+      "dterm_boost":                   0,
+      "dterm_boost_limit":             0,
       "feathered_pids":                100,
       "iterm_rotation":                "ON",
       "vbat_pid_gain":                 "OFF",
-      "smart_feedforward":             "OFF",
-      "iterm_relax_enabled":           "OFF",
-      "iterm_relax":                   1,
-      "irelax":                        11,
-      "iRelaxYaw":                     25,
-      "iterm_relax_type":              1,
-      "iterm_relax_cutoff":            20,
-      "dtermBoost":                    0,
-      "dtermBoostLimit":               0,
+      "__comment":                     "!!! NEW iRelax v2 !!!",
+      "iterm_relax2_cutoff":           11,
+      "iterm_relax2_cutoff_yaw":       25,
       "__comment":                     "!!! TPA !!!",
       "tpa_breakpoint":                1600,
       "tpa_rate_p":                    75,
