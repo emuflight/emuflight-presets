@@ -281,7 +281,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "5in-4s-2306-2750kv-Filthrillz Stella":{
+   "5in-4S-2306-2750kv-Filthrillz Stella":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 5in Freestyle quads for 4s only",
       "build_motors":                  "iFlight Xing 2306 2750kv",
@@ -379,7 +379,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
   },
-  "5in-6S-Smooth-Pierre-Meunier":{
+  "5in-6S-2306-1900kv-Pierre-Meunier-Smooth":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Preset smooth 6S 5inch Freestyle quad",
       "build_motors":                  "2306.5 1900 KV",
@@ -476,7 +476,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
   },
-  "5in-4S-SmoothJuice-Pierre-Meunier":{
+  "5in-4S-2207-2550-Pierre-Meunier-SmoothJuice":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Preset smooth PID for 4S 5inch Freestyle quad, it should be compatible with most setup with strong motors ",
       "build_motors":                  "RCinpower 2207 2550 KV",
@@ -572,7 +572,8 @@
       "witchcraft_roll":               0,
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
-  },   "5in-4S-High-Tune-Pierre-Meunier":{
+  },
+  "5in-4S-2305-2550kv-Pierre-Meunier-HighTune":{
     "__comment":                     "!!! PIDs !!!",
     "preset_note":                   "Preset high PID for 4S 5inch Freestyle quad, it might not be compatible with your setup watch motor temp ",
     "build_motors":                  "AMAX 2305 2550 KV",
@@ -669,7 +670,7 @@
     "witchcraft_pitch":              0,
     "witchcraft_yaw":                0
    },
-   "5in-4s-2306-2400kv-Skylion-Cineglide":{
+   "5in-4S-2306-2400kv-Skylion-Cineglide":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 5in cinematic quads for 6s lower p's&d's by 5ish",
       "build_motors":                  "tmotor f40proII 2306 2400kv",
@@ -767,7 +768,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "5in-4s-2306-2550kv-Skylion-Freestyle":{
+   "5in-4S-2306-2550kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 5in freestyle quads for 6s lower pids by 5ish",
       "build_motors":                  "Rebel 2305 2550kv",
@@ -865,7 +866,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "6in-4s-2408-1900kv-Skylion-Freestyle":{
+   "6in-4S-2408-1900kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 6in freestyle/cinematic quads for 6s lower p's&d's by 5ish",
       "build_motors":                  "tmotor f80 2408 1900kv",
@@ -963,7 +964,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "7in-4s-2806.5-1200kv-Skylion-Freestyle":{
+   "7in-4S-2806.5-1200kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 7in freestyle/cinematic quads for 6s lower p's&d's by 5ish",
       "build_motors":                  "Diatone 2806.5 1200kv",
@@ -1158,7 +1159,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "4in-4s-2204-3050kv-Skylion-Freestyle":{
+   "4in-4S-2204-3050kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 3in and 4in powerbuilds running 4s",
       "build_motors":                  "hyperlite 2204 3050kv",
@@ -1256,7 +1257,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "3in-4s-1507-3800kv-Skylion-Cinewhoop":{
+   "3in-4S-1507-3800kv-Skylion-Cinewhoop":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 3in cinewhoops",
       "build_motors":                  "tmotor 1507 3800kv",
@@ -1452,7 +1453,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "ToothPick-2S-1103-7000KV-Pierre-Meunier":{
+   "2.5in-ToothPick-2S-1103-7000KV-Pierre-Meunier":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Preset for ToothPick",
       "build_motors":                  "1103 7000 kv & 1202.5 5800 kv ",
@@ -1648,7 +1649,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "GTB-2S-1103-6500KV-QUICKFLASH-Freestyle":{
+   "2.5in-GTB-2S-1103-6500KV-QUICKFLASH-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Diatone GTB 239 QuickFlash tune",
       "build_motors":                  "Mamba 1103 6500kv",
@@ -1745,7 +1746,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "TinyWhoop-1S-0802-19000kV-Pierre-Meunier":{
+   "1in-TinyWhoop-1S-0802-19000kV-Pierre-Meunier":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Preset for TinyWhoop",
       "build_motors":                  "0802 19 000 KV  ",
@@ -1843,7 +1844,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "HGLRC-MotoWhoop85-t0t0-FPV":{
+   "2in-HGLRC-MotoWhoop85-t0t0-FPV":{
        "__comment":                     "!!! PIDs !!!",
        "preset_note":                   "HGLRC MotoWhoop85",
        "build_motors":                  "1103 8000kv",
