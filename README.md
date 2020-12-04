@@ -74,6 +74,7 @@ JSON Template for 0.3.X presets:
       "feathered_pids":                100,
       "iterm_rotation":                "ON",
       "vbat_pid_gain":                 "OFF",
+      "__comment":                     "!!! NEW iRelax v2 !!!",
       "iterm_relax2_cutoff":           11,
       "iterm_relax2_cutoff_yaw":       25,
       "__comment":                     "!!! TPA !!!",
