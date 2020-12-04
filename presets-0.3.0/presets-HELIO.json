@@ -388,7 +388,7 @@
      "witchcraft_pitch":              6,
      "witchcraft_yaw":                6
 },
-   "5in-4S-smooth-Tune-V2-Pierre-Meunier":{
+   "5in-4S-2305-2550kv-V2-Pierre-Meunier-Smooth":{
     "__comment":                     "!!! PIDs !!!",
     "preset_note":                   "Preset smooth PID for 4S 5inch Freestyle quad, it should be compatible with most setup with strong motors ",
     "build_motors":                  "RCinpower 2305 2550 KV",
