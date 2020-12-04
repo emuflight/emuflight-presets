@@ -1355,7 +1355,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "3in-3s-1303-5000kv-Skylion-Freestyle":{
+   "3in-3S-1303-5000kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 3inand 4in toothpick or ultralight 3s quads",
       "build_motors":                  "fpvcycles 1303 5000kv",
@@ -1551,7 +1551,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "2.5in-2s-1103-8022kv-Skylion-Freestyle":{
+   "2.5in-2S-1103-8022kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 40mm powerwhoop to 3in toothpick running 2s micros",
       "build_motors":                  "Hyperlite 1103 8022",
@@ -1938,7 +1938,7 @@
        "witchcraft_pitch":              2,
        "witchcraft_yaw":                0
     },
-   "2.5in-1s-1103-12622kv-Skylion-Freestyle":{
+   "2.5in-1S-1103-12622kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for nonducted 40mm prop-3inch 1s micros",
       "build_motors":                  "Hyperlite 1103 12600",
@@ -2036,7 +2036,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "1.5in-1s-0803-19000kv-Skylion-Freestyle":{
+   "1.5in-1S-0803-19000kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for ducted 65mm or 75mm 1s whoops or tinyhawk",
       "build_motors":                  "Happymodel 0803 19000kv",
