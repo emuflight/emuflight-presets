@@ -1,5 +1,5 @@
 {
-  "6inch-6S-2207-1900kV-nerdCopter-freestyle":{
+  "6in-6S-2207-1900kV-nerdCopter-freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "This is a starting-point for Helio/Strix tuning.  Use BlackBox Log analysis to tune your quad-specific LPF's (gyro and kD).  Raise kP's as needed then balance kD's as needed. Finish up with kI's. Use motor_output_limit as needed. IMUF version of your choice. I prefer sharpness=0; however, not all versions allow such.  Also sharpness=1 may not produce the expected results, so I chose a small value for this preset. Feel free to experiment with kD LPF type PT1; I chose BiQuad for general safety in regards to motor temperature and kD tolerance.",
       "build_motors":                  "",
@@ -96,7 +96,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "5inch-6S-2207-1750kV-Andrey-freestyle":{
+   "5in-6S-2207-1750kV-Andrey-freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Tune suitable for powerfull 6S motors with lightweight props. <br> Should be run with 32khz OFF and 4k/4k Gyro and PID loop",
       "build_motors":                  "Tmotors F60 PRO V3 1750kV",
@@ -290,7 +290,7 @@
       "witchcraft_pitch":              0,
       "witchcraft_yaw":                0
    },
-   "5in-4s-2207-2750kv-Filthrillz Stella":{
+   "5in-4S-2207-2750kv-Filthrillz Stella":{
      "__comment":                     "!!! PIDs !!!",
      "preset_note":                   "Good for 5in Freestyle quads for 4s only",
      "build_motors":                  "iFlight Xing 2207 2750kv",
@@ -488,7 +488,7 @@
     "witchcraft_pitch":              0,
     "witchcraft_yaw":                0
    },
-   "5in-4s-2306-2400kv-Skylion-Cineglide":{
+   "5in-4S-2306-2400kv-Skylion-Cineglide":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 5in cinematic quads",
       "build_motors":                  "tmotor f40proII 2306 2400kv",
@@ -586,7 +586,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "5in-4s-2306-2550kv-Skylion-Freestyle":{
+   "5in-4S-2306-2550kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 5in freestyle quads",
       "build_motors":                  "Rebel 2305 2550kv",
@@ -684,7 +684,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "6in-4s-2408-1900kv-Skylion-Freestyle":{
+   "6in-4S-2408-1900kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 6in freestyle/cinematic quads",
       "build_motors":                  "tmotor f80 2408 1900kv",
@@ -782,7 +782,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "7in-4s-2806.5-1200kv-Skylion-Freestyle":{
+   "7in-4S-2806.5-1200kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 7in freestyle/cinematic quads",
       "build_motors":                  "Diatone 2806.5 1200kv",
@@ -880,7 +880,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "4in-4s-2204-3050kv-Skylion-Freestyle":{
+   "4in-4S-2204-3050kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 3in and 4in powerbuilds running 4s",
       "build_motors":                  "hyperlite 2204 3050kv",
@@ -978,7 +978,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "3in-4s-1507-3800kv-Skylion-Cinewhoop":{
+   "3in-4S-1507-3800kv-Skylion-Cinewhoop":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 3in cinewhoops",
       "build_motors":                  "tmotor 1507 3800kv",
@@ -1076,7 +1076,7 @@
       "witchcraft_pitch":              6,
       "witchcraft_yaw":                6
    },
-   "3in-3s-1303-5000kv-Skylion-Freestyle":{
+   "3in-3S-1303-5000kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 3inand 4in toothpick or ultralight 3s quads",
       "build_motors":                  "fpvcycles 1303 5000kv",
@@ -1174,7 +1174,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "2.5in-2s-1103-8022kv-Skylion-Freestyle":{
+   "2.5in-2S-1103-8022kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for 40mm powerwhoop to 3in toothpick running 2s micros",
       "build_motors":                  "Hyperlite 1103 8022",
@@ -1272,7 +1272,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "2.5in-1s-1103-12622kv-Skylion-Freestyle":{
+   "2.5in-1S-1103-12622kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for nonducted 40mm prop-3inch 1s micros",
       "build_motors":                  "Hyperlite 1103 12600",
@@ -1370,7 +1370,7 @@
       "witchcraft_pitch":              3,
       "witchcraft_yaw":                3
    },
-   "1.5in-1s-0803-19000kv-Skylion-Freestyle":{
+   "1.5in-1S-0803-19000kv-Skylion-Freestyle":{
       "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Good for ducted 65mm or 75mm 1s whoops or tinyhawk",
       "build_motors":                  "Happymodel 0803 19000kv",
