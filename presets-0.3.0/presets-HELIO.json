@@ -1,7 +1,7 @@
 {
   "6in-6S-2207-1900kV-nerdCopter-freestyle":{
       "__comment":                     "!!! PIDs !!!",
-      "preset_note":                   "This is a starting-point for Helio/Strix tuning.  Use BlackBox Log analysis to tune your quad-specific LPF's (gyro and kD).  Raise kP's as needed then balance kD's as needed. Finish up with kI's. Use motor_output_limit as needed. IMUF version of your choice. I prefer sharpness=0; however, not all versions allow such.  Also sharpness=1 may not produce the expected results, so I chose a small value for this preset. Feel free to experiment with kD LPF type PT1; I chose BiQuad for general safety in regards to motor temperature and kD tolerance.",
+      "preset_note":                   "This is a starting-point for Helio/Strix tuning.  Use BlackBox Log analysis to tune your quad-specific LPF's (gyro and kD).  Raise kP's as needed then balance kD's as needed. Finish up with kI's. Use motor_output_limit as needed. IMUF version of your choice. I prefer sharpness=0; however, not all versions allow such.  Also sharpness=1 may not produce the expected results, so I chose a small value for this preset. Feel free to experiment with kD LPF type PT1; I chose BiQuad for general safety in regards to motor temperature and kD tolerance. Matrix ON, only to be more widely compatible. I prefer Matrix OFF and a single kD LPF if the quad tolerates it.",
       "build_motors":                  "",
       "build_frame":                   "5 inch & 6 inch, if you tune it.",
       "build_props":                   "5 inch & 6 inch, if you tune each.",
