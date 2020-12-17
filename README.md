@@ -1,12 +1,12 @@
 JSON Template for 0.3.X presets:
 ```
    "Xinch-CellCount-motorSize-motorKV-Pilot-flyStyle":{
-      "__comment":                     "!!! PIDs !!!",
       "preset_note":                   "Additional notes and information about the tune or to help end-users with application. For example for what quads suitable, better, etc.",
       "build_motors":                  "MOTORS name, size etc",
       "build_frame":                   "FRAME name, size etc",
       "build_props":                   "Props size etc",
       "build_battery":                 "Battery (4S,6S etc.)",
+      "__comment":                     "!!! PIDs !!!",
       "p_roll":                        45,
       "i_roll":                        70,
       "d_roll":                        20,
