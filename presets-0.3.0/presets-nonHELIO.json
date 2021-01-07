@@ -1,6 +1,6 @@
 {
-  "X8 7inch-6S-2806,5-1300 to 1700kv-Shikijo-Cine":{
-        "preset_note":                   "Emu tune for X8 cinelifter with 7inch prop. Working with 1300 to 1700kv 2806,5 motors. If you want more smooth : try dynamic rate like 10 weight to center, if you want more lock : increase the P to 2 on Roll and Pitch. You need to soft mount your FC with correct bumper, unless you need to decrease P and D to 5 point on each axis.",
+  "7in-X8-6S-2806.5-1300kv/1700kv-Shikijo-Cine":{
+        "preset_note":                   "Emu tune for X8 cinelifter with 7inch prop. Working with 1300 to 1700kv 2806.5 motors. If you want more smooth : try dynamic rate like 10 weight to center, if you want more lock : increase the P to 2 on Roll and Pitch. You need to soft mount your FC with correct bumper, unless you need to decrease P and D to 5 point on each axis.",
         "build_motors":                  "Brotherhobby 2806,5 or T-Motor F90 1300 to 1700kv",
         "build_frame":                   "Turtle X8 and Shendrone Thicc",
         "build_props":                   "7 inch triblade",
