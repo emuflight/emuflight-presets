@@ -2429,7 +2429,7 @@
       "witchcraft_yaw":                2
    },
    "1in-1S-0802-19000kv-3Dracingman-NanoHawk":{
-      "preset_note":                   "EMax NanoHawk without propeller guards using 35mm HQ tri-props"
+      "preset_note":                   "EMax NanoHawk without propeller guards using 35mm HQ tri-props",
       "build_motors":                  "0802 19000kv",
       "build_frame":                   "EMax NanoHawk",
       "build_props":                   "35mm HQ Tri-props",
