@@ -388,7 +388,7 @@
       "smart_dterm_smoothing_yaw":     0,
       "witchcraft_roll":               0,
       "witchcraft_pitch":              0,
-      "witchcraft_yaw":                0,
+      "witchcraft_yaw":                0
 },
    "5in-6S-2207-1750kV-Andrey-freestyle":{
       "__comment":                     "!!! PIDs !!!",
