@@ -1,4 +1,8 @@
-JSON Template for 0.3.X presets:
+#### New templates for 0.4.0:
+* Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/b42bec3da2ac552474158d130b2609b2a14b1172/presets-0.4.0/presets-nonHELIO.json
+* Helio Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/b42bec3da2ac552474158d130b2609b2a14b1172/presets-0.4.0/presets-HELIO.json
+
+#### Old JSON Template for 0.3.X presets:
 ```
    "Xinch-CellCount-motorSize-motorKV-Pilot-flyStyle":{
       "preset_note":                   "Additional notes and information about the tune or to help end-users with application. For example for what quads suitable, better, etc.",
