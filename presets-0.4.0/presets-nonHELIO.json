@@ -61,6 +61,7 @@
       "dterm_lowpass_hz_pitch":        90,
       "dterm_lowpass_hz_yaw":          90,
       "dterm_lowpass2_enabled":        "ON",
+      "dterm_lowpass2_type":           0,
       "dterm_lowpass2_hz_roll":        200,
       "dterm_lowpass2_hz_pitch":       200,
       "dterm_lowpass2_hz_yaw":         200,
