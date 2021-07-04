@@ -1,6 +1,7 @@
-#### New templates for 0.4.0:
-* Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/b42bec3da2ac552474158d130b2609b2a14b1172/presets-0.4.0/presets-nonHELIO.json
-* Helio Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/b42bec3da2ac552474158d130b2609b2a14b1172/presets-0.4.0/presets-HELIO.json
+#### New templates for 0.4.0 (in-flux; may change):
+* Template:https://raw.githubusercontent.com/emuflight/emuflight-presets/475ac45e7cfa8e89c7daa167af404de646cf9e0d/presets-0.4.0/presets-nonHELIO.json
+* Helio Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/475ac45e7cfa8e89c7daa167af404de646cf9e0d/presets-0.4.0/presets-HELIO.json
+
 
 #### Old JSON Template for 0.3.X presets:
 ```
