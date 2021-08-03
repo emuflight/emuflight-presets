@@ -1,5 +1,5 @@
 This is the EmuConfigurator presets repository.
 
 #### 0.4.0 Templates:
-* Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/5b3b85bff931734391be66ea08105f064fdb5967/presets-0.4.0/presets-nonHELIO.json
-* Helio Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/5b3b85bff931734391be66ea08105f064fdb5967/presets-0.4.0/presets-HELIO.json
+* Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/a4472adb689dc796e2dc737067f62a706e6d94b7/presets-0.4.0/presets-nonHELIO.json
+* Helio Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/a4472adb689dc796e2dc737067f62a706e6d94b7/presets-0.4.0/presets-HELIO.json
