@@ -1,5 +1,5 @@
-This is the EmuConfigurator presets repository.
+### This is the EmuConfigurator presets repository.
 
-#### 0.4.0 Templates:
-* Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/a4472adb689dc796e2dc737067f62a706e6d94b7/presets-0.4.0/presets-nonHELIO.json
-* Helio Template: https://raw.githubusercontent.com/emuflight/emuflight-presets/a4472adb689dc796e2dc737067f62a706e6d94b7/presets-0.4.0/presets-HELIO.json
+### EmuFlight welcomes peset-submissions from experienced pilots.
+ * Please find the templates here: https://github.com/emuflight/emuflight-presets/wiki 
+ * Presets should be generalized enough to work with any generic aircraft of the intended size/build.
