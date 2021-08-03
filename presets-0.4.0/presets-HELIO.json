@@ -74,7 +74,7 @@
       "dterm_notch_hz":                0,
       "dterm_notch_cutoff":            0,
       "__comment":                     "*** Dynamic D Term Filter ***",
-      "dterm_dyn_notch_enable":        "ON",
+      "dterm_dyn_notch_enable":        "OFF",
       "dterm_dyn_notch_q":             400,
       "__comment":                     "*** Filter Options *** ",
       "smith_predict_enabled":         "ON",
