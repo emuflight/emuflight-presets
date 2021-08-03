@@ -100,7 +100,7 @@
       "spa_rate_d_yaw":                130,
       "__comment":                     "*** Feel Options ***",
       "__comment":                     "*** Motor Output Mixer: 0=LEGACY,1=SMOOTH,2=2PASS",
-      "mixer_impl":                    0,
+      "mixer_impl":                    2,
       "mixer_laziness":                "OFF",
       "mixer_yaw_throttle_comp":       "ON",
       "linear_thrust_low_output":      65,
