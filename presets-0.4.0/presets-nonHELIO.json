@@ -38,7 +38,7 @@
       "imuf_yaw_lpf_cutoff_hz":        0,
       "imuf_ptn_order":                1,
       "__comment":                     "*** Filters Gyro *** type: 0=PT1, 1=BiQuad, 2=PT2, 3=PT3, 4=PT4. Usually remain OFF/0 for Helio",
-      "gyro_lowpass_enabled":          "OFF",
+      "gyro_lowpass_enabled":          "ON",
       "gyro_lowpass_type":             0,
       "gyro_lowpass_hz_roll":          115,
       "gyro_lowpass_hz_pitch":         115,
