@@ -110,7 +110,7 @@
       "axis_lock_hz":                  2
    },
       "5/6/7inch-Experimental-MagicCarpetRide":{
-      "preset_note":                   "Almost defaults / Experimental Work in Progress. ***WARNING*** This preset <b>REQUIRES</b> Dynamic Gyro Filter <b>ENABLED</b> (cli: 'feature DYNAMIC_FILTER' or Configuration-Tab>Dynamic Filter>ON).  Here we disable gyro LPF and raise D-Term LPF then depend on Dynamic Gyro Notch Filters and Dynamic D Term Notch Filters. Dynamic Filter MIN of 90 may be too low for most 5inch or too high for 7inch. Consider adjusting as necessary. DLPF1 may need adjusting as well. This preset enables Axis Lock and also enables Thrust-Linear which may be un-calibrated to your motor specs. TEST HOVER, TEST TEST TEST for Motor Heat; Err on side of safety please! feedback requested, @nerdCopter",
+      "preset_note":                   "Almost defaults / Experimental Work in Progress. ***WARNING*** This preset <b>REQUIRES</b> Dynamic Gyro Filter <b>ENABLED</b> (cli: 'feature DYNAMIC_FILTER' or Configuration-Tab>Dynamic Filter>ON).  Here we raise D-Term LPF for high-frequencies only, then depend on Dynamic Gyro Notch Filters and Dynamic D Term Notch Filters. Dynamic Filter MIN and Static LPF of 90Hz are probably too low for most 5inch and maybe too high for 7inch. Adjust as needed. DLPF1 may need adjusting as well. This preset enables Axis Lock and also enables Thrust-Linear which may be un-calibrated to your motor specs. TEST HOVER, TEST TEST TEST for Motor Heat; Err on side of safety please! feedback requested, @nerdCopter",
       "build_motors":                  "",
       "build_frame":                   "5, 6, maybe 7 inch",
       "build_props":                   "5, 6 inch",
@@ -148,11 +148,11 @@
       "imuf_yaw_lpf_cutoff_hz":        0,
       "imuf_ptn_order":                1,
       "__comment":                     "*** Filters Gyro *** type: 0=PT1, 1=BiQuad, 2=PT2, 3=PT3, 4=PT4. Usually remain OFF/0 for Helio",
-      "gyro_lowpass_enabled":          "OFF",
+      "gyro_lowpass_enabled":          "ON",
       "gyro_lowpass_type":             0,
       "gyro_lowpass_hz_roll":          90,
       "gyro_lowpass_hz_pitch":         90,
-      "gyro_lowpass_hz_yaw":           85,
+      "gyro_lowpass_hz_yaw":           90,
       "gyro_lowpass2_enabled":         "OFF",
       "gyro_lowpass2_type":            0,
       "gyro_lowpass2_hz_roll":         0,
