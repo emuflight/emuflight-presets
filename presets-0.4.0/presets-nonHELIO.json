@@ -109,7 +109,7 @@
       "axis_lock_multiplier":          0,
       "axis_lock_hz":                  2
    },
-   "5in-6S-2207-1750kV-Andrey-freestyle":{
+   "5inch-6S-2207-1750kV-Andrey-freestyle":{
       "preset_note":                   "Tune for powerfull 6S motors with lightweight props. <br> Should be run with 32khz OFF and 4k/4k Gyro and PID loop <br> IMPORTANT: Need to run with DYNAMIC_FILTER = ON",
       "build_motors":                  "Tmotors F60 PRO V3 1750kV",
       "build_frame":                   "AstroX X5 JohnnyFPV",
@@ -330,7 +330,7 @@
       "axis_lock_hz":                  2
    },
 "5inch-6S-2306-1950kv-DNLKRNWN-JuicyFruity":{
-      "preset_note":                   "This tune is for maximum propwash handling and use minimum filtering, perfect for juicy sbang style.<br/><b>WARNING</b>: Dynamic Filter should be ON! Minimum 5mm arm thickness is recommended, <br/>TIPS: blackbox log first with debug_mode = gyro_scaled and check your motor/frame resonance peak noise. if your quad have more than 1 peak, you should add notch count to 3, and Q 350.<br/>Light weight quad with AUW under 500g, may need to lower P and D around 5-10%. Heavier quad with AUW 700gr and above might add P and D  around 5-10%.",
+      "preset_note":                   "This tune is for maximum propwash handling and use minimum filtering, perfect for juicy sbang style.<br/><b>WARNING</b>: Dynamic Filter should be ON! <b>WARNING</b>: Gyro LPF is turned OFF here (atypical).<br/>Minimum 5mm arm thickness is recommended, <br/>TIPS: blackbox log first with debug_mode = gyro_scaled and check your motor/frame resonance peak noise. if your quad have more than 1 peak, you should add notch count to 3, and Q 350.  Light weight quad with AUW under 500g, may need to lower P and D around 5-10%. Heavier quad with AUW 700gr and above might add P and D  around 5-10%.",
       "build_motors":                  "T-Motor Velox V2",
       "build_frame":                   "TBS SOURCEONE V4 + 6MM ARMS",
       "build_props":                   "BLACKBIRD T4943",
