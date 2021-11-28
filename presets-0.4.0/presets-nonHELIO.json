@@ -2529,7 +2529,7 @@
       "axis_lock_multiplier":          0,
       "axis_lock_hz":                  2
    },
-    "8inch X8-6S-2812-1100kv-Shikijo-Cinelifter":{
+    "7inch X8-6S-2812-1100kv-Shikijo-Cinelifter":{
       "preset_note":                   "Tune for Shendrone Siccario with 7inch props and 2810 1500kv motors. The tune is made with 7.4.3 HQprops and 1.8kg of payload without the battery ",
       "build_motors":                  "",
       "build_frame":                   "X8 Siccario",
