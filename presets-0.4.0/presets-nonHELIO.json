@@ -2572,7 +2572,7 @@
       "gyro_lowpass_type":             0,
       "gyro_lowpass_hz_roll":          110,
       "gyro_lowpass_hz_pitch":         110,
-      "gyro_lowpass_hz_yaw":           2105,
+      "gyro_lowpass_hz_yaw":           105,
       "gyro_lowpass2_enabled":         "OFF",
       "gyro_lowpass2_type":            0,
       "gyro_lowpass2_hz_roll":         0,
